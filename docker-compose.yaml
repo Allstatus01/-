@@ -1,7 +1,7 @@
 version: '3.5'
 services:
   myapp:
-    image: 58364005/assignment5
+    image: kritsanapongc/resume
     ports:
       - "8002:3000"
     command: "npm start"
